@@ -10,7 +10,7 @@ public class CourseResponse {
     }
 
     public CourseResponse(Long id, String name, int credits) {
-        this.id = id;
+        this.id = id; 
         this.name = name;
         this.credits = credits;
     }

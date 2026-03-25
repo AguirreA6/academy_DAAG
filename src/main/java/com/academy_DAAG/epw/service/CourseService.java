@@ -1,4 +1,4 @@
-package com.academy_DAAG.epw.service.impl;
+package com.academy_DAAG.epw.service;
 
 import com.academy_DAAG.epw.dto.CourseRequest;
 import com.academy_DAAG.epw.dto.CourseResponse;
